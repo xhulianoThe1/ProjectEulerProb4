@@ -22,3 +22,6 @@ https://projecteuler.net/problem=24
 
 Prob #8 
 https://projecteuler.net/problem=8
+
+Prob #40
+https://projecteuler.net/problem=40
