@@ -25,3 +25,6 @@ https://projecteuler.net/problem=8
 
 Prob #40
 https://projecteuler.net/problem=40
+
+Prob #48
+https://projecteuler.net/problem=48
