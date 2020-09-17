@@ -1,6 +1,6 @@
 # ProjectEulerProblems
 
-Project Euler problem #4, #10, #25, #16, #20, #24
+Project Euler problem #4, #10, #25, #16, #20, #24, #22, #12
 
 Problem #4:  
 https://projecteuler.net/problem=4
@@ -31,3 +31,7 @@ https://projecteuler.net/problem=48
 
 Prob #52 
 https://projecteuler.net/problem=52
+
+Prob #22 
+https://projecteuler.net/problem=22
+
