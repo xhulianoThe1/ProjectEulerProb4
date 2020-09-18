@@ -35,3 +35,5 @@ https://projecteuler.net/problem=52
 Prob #22 
 https://projecteuler.net/problem=22
 
+Prob 30 
+https://projecteuler.net/problem=30
