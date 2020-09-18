@@ -36,5 +36,5 @@ https://projecteuler.net/problem=22
 Prob 30 
 https://projecteuler.net/problem=30
 
-Prob 30 
+Prob 34 
 https://projecteuler.net/problem=34
