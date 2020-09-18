@@ -1,7 +1,5 @@
 # ProjectEulerProblems
 
-Project Euler problem #4, #10, #25, #16, #20, #24, #22, #12
-
 Problem #4:  
 https://projecteuler.net/problem=4
 
@@ -37,3 +35,6 @@ https://projecteuler.net/problem=22
 
 Prob 30 
 https://projecteuler.net/problem=30
+
+Prob 30 
+https://projecteuler.net/problem=34
