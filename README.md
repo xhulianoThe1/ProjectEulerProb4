@@ -1,5 +1,5 @@
 # ProjectEulerProblems
-Total Project Euler Problems solved 25. Some of my solutions here. 
+Total Project Euler Problems solved 26. Some of my solutions here. 
 
 Problem statements
 
@@ -47,3 +47,6 @@ https://projecteuler.net/problem=45
 
 Prob 29 
 https://projecteuler.net/problem=29
+
+Prob 33
+https://projecteuler.net/problem=33
